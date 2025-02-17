@@ -83,7 +83,7 @@ export default function Home() {
             </MenuItem>
           ))}
         </TextField>
-        <Checkbox required /> I agree to the terms
+        <Checkbox required /> Booking required
         <br />
         <Button type="submit" variant="contained" color="primary" disabled={priceError}>
           Submit
